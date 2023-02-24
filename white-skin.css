@@ -134,19 +134,19 @@ transition:all .45s linear;
   height: 101px;
 }
 .farbtastic .wheel {
-  background: url(https://jetstreamworks.com/wp-content/uploads/2023/02/wheel.png) no-repeat;
+  background: url(/wp-content/uploads/2023/02/wheel.png) no-repeat;
   width: 195px;
   height: 195px;
 }
 .farbtastic .overlay {
-  background: url(https://jetstreamworks.com/wp-content/uploads/2023/02/mask.png) no-repeat;
+  background: url(/wp-content/uploads/2023/02/mask.png) no-repeat;
 }
 .farbtastic .marker {
   width: 17px;
   height: 17px;
   margin: -8px 0 0 -8px;
   overflow: hidden; 
-  background: url(https://jetstreamworks.com/wp-content/uploads/2023/02/marker.png) no-repeat;
+  background: url(/wp-content/uploads/2023/02/marker.png) no-repeat;
 }
 .mobileShow{
 	display: none;
